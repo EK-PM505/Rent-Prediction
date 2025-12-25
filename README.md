@@ -63,7 +63,9 @@ A machine learning model that predicts rents. It takes the required user inputs 
 - a unit increase in the number of the cities is associated with an increase in the rent by ***GHC81.65***, holding other variables constant.
 - a unit increase in the number of bathrooms is associated with an increase in the rent by ***GHC59.7***, holding other variables constant.
 - an additional unit in rent category is associated with a decrease in the rent by ***GHC9633.54***, holding other variables constant.
-      - The model gives a mean absolute error of ***162969.44***, which is very high when compared to the RandomForestRegressor model
+
+
+  - The model gives a mean absolute error of ***162969.44***, which is very high when compared to the RandomForestRegressor model
 
 
 ***3. Finding from the RandomForestRegressor model***
