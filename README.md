@@ -1,6 +1,9 @@
 # Rent-Prediction
 A machine learning model that predicts rents. It takes the required user inputs to predict rent.
 
+- Attached here is the video of the deployed app:
+https://github.com/user-attachments/assets/b0aec232-0dbb-4e95-8c82-af75e2ba5398
+
 # Project Outline
 - All libraries imported
 - Clean the dataset
@@ -14,12 +17,8 @@ A machine learning model that predicts rents. It takes the required user inputs 
   - Model Communication(Linear Regression))
   - Non-Linear Regression Model
     - RandomForestRegressor model
-    - Model Communication (RandomForestRegressor))
-- Findings
-- Model Deployment
 
-# Clean the dataset
-- Checked for the data structure to identify incosistencies in the data. It showed that the data structure was okay except for two variables (Longitude and Latitude) which had 719 missing values. Also, the longitude and latitude point to a location but we already have a location variable so those variables were removed.
+cies in the data. It showed that the data structure was okay except for two variables (Longitude and Latitude) which had 719 missing values. Also, the longitude and latitude point to a location but we already have a location variable so those variables were removed.
 - Checked for white spaces in the variable names but was clean.
 - Checked for duplicates but there wasn't any.
 
